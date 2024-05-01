@@ -17,7 +17,7 @@ May 1 2024
 - Tags
   - Previously defined tags (Notes, Homework, Lecture Notes) are selectable for each note
 - Search
-  - We can search/filter notes by typing in a search bar, which looks for tags/title of notes
+  - We can search/filter notes by typing in a search bar, which looks for tags/title of notes ( Leave for next sprint )
 - Sort
   - We can choose to sort the notes from earliest to latest, latest to earliest, or alphabetically by title
 - Font options
