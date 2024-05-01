@@ -25,3 +25,9 @@ May 1 2024
 - Templates
   - Option on make a new note to duplicate a previously existing note
   - Option on dashboard to duplicate a previously existing note
+- File
+  - Add option to use a PDF file instead of Markdown
+    - Upload button ( only accepts PDF Files )
+    - Additional view on original page for PDF's
+- UI
+  - Make responsive for mobile
