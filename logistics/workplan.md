@@ -31,14 +31,14 @@ May 10 2024
 
 ## Current Sprint
 Finish unresolved features
-  - Need to connect tag database to UI
-  - Finishs building out the SPA by next week
-  - Add export as markdown
-  - Add more styling
-  - Fix bugs
-  - Add duplicate button
-  - Notes for each tag
-  - Add tags database
+  - Need to connect tag database to UI (12 hours)
+  - Finishs building out the SPA by next week (12 hours)
+  - Add export as markdown (2 hours)
+  - Add more styling (1 hour)
+  - Fix bugs (2 hours)
+  - Add duplicate button (2 hours)
+  - Notes for each tag (2 hours)
+  - Add tags database (8 hours)
 
 ## Newer features
 - Display markdown on dashboard
